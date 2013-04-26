@@ -1,4 +1,4 @@
-﻿var console=require("./console.js");
+﻿var console = require("./console.js");
 
 console.log("log");
 {
