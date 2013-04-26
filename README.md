@@ -1,4 +1,4 @@
-# Node.Unnecesary.js
+# Node.Unnecessary.js
  
 My previous (and ongiong) project, Unnecesary.js, focussed on built-in behaviours and methods within JavaScript. The idea was to demonstrate, through easy-to-follow, well-commented code, how things worked behind the scenes. How does the event loop work? How does type coersion work when comparing two values?
 
@@ -16,4 +16,3 @@ There is 1 module completed so far. Here's an up-to-date list of them all:
  
 ## TODO
 - Add browser-based tests for urls
- 
